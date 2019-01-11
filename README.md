@@ -19,6 +19,7 @@ Download this Github repository (click "Clone or download" and select "Download 
 * [Python 3] (https://www.python.org/download/releases/3.0/) - General-purpose programming language
 * [tkinter] (https://docs.python.org/3/library/tkinter.html) - Python's de facto standard GUI
 * [Blackfynn python API] (https://github.com/Blackfynn/blackfynn-python) - Python client and command line tool for Blackfynn
+* [pyinstaller] (http://www.pyinstaller.org/) - Python module for packaging Python codes into stand-alone executables
 
 
 ## Versioning
