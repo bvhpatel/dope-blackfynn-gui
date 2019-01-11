@@ -2,7 +2,7 @@
 
 A Windows program, called DOPE-Blackfynn-GUI, for uploading nested folder from your computer to the Blackfynn platform without having to type any code or installing any other software. Everything that is required (Python, Blackfynn API, etc.) is prepackaged in this program. It provides a convenient GUI (shown in the picture below) wrapped around the Blackfynn Python API. Please follow the user manual for installation and usage guidelines. A method for setting up your Blackfynn profile on your computer without having to go through the command line is also provided in the user manual. The program has been tested on Windows 7, 8, and 10. Extension to Mac and/or Linux OS will be considered if there is a demand from the investigators (please email the developer with any such request). 
 
-
+<img src="(DOPE-Blackfynn-GUI.PNG" alt="GUI picture" width="200"/>
 ![GUI picture](DOPE-Blackfynn-GUI.PNG = 100x100)
 
 
